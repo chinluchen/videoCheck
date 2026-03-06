@@ -1,0 +1,5 @@
+{
+  "name": "驗光實驗步驟驗證系統",
+  "description": "學生上傳 YouTube 影片連結，系統自動分析語音內容並驗證驗光實驗操作步驟是否正確。",
+  "requestFramePermissions": []
+}
